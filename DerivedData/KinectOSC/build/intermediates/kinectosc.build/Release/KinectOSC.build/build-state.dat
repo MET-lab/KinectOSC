@@ -1,0 +1,1119 @@
+TKinectOSC
+v6
+r1
+cCheck dependencies
+cProcessPCH++ /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-gblyxrvfssiokxgrglllcmigzpeb/KinectOSC-Prefix.pch.pch KinectOSC/KinectOSC-Prefix.pch normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH++ /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-guuewrroyqsqkderhbxzjkzxhyry/KinectOSC-Prefix.pch.pch KinectOSC/KinectOSC-Prefix.pch normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-aiixflanubliimcknefbqkfsylfj/KinectOSC-Prefix.pch.pch KinectOSC/KinectOSC-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/Utility.o /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/Utility/Utility.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/KinectDisplay.o /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/KinectDisplay.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/SkeletonController.o /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/SkeletonController.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/KinectGLView.o /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/KinectGLView.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/AppDelegate.o /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/AppDelegate.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/main.o /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/OscController.o /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/OscController.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/MacOS/KinectOSC normal x86_64
+cCopyStringsFile /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Resources/en.lproj/InfoPlist.strings KinectOSC/en.lproj/InfoPlist.strings
+cCpResource KinectOSC/en.lproj/Credits.rtf DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Resources/en.lproj/Credits.rtf
+cCompileXIB /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/Base.lproj/MainMenu.xib
+cCompileAssetCatalog /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Resources /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/Images.xcassets
+cProcessInfoPlistFile /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Info.plist /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/KinectOSC-Info.plist
+cGenerateDSYMFile /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app.dSYM /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/MacOS/KinectOSC
+cTouch /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005287A13F00000000000000AA
+t1384620351
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000526E8691000000000000044C
+t1382975121
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000526E869100000000000001DB
+t1382975121
+s475
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+c00000000526E869100000000002682C8
+t1382975121
+s2523848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c00000000526E86920000000000007D5C
+t1382975122
+s32092
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+c00000000526E86920000000000020D64
+t1382975122
+s134500
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+c00000000526E8692000000000001B3B8
+t1382975122
+s111544
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+c00000000526E86920000000000034F94
+t1382975122
+s216980
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+c00000000526E8692000000000000CB08
+t1382975122
+s51976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+c00000000526E8692000000000002C5F4
+t1382975122
+s181748
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+c00000000526E8692000000000002B9A8
+t1382975122
+s178600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+c00000000526E86920000000000011EF8
+t1382975122
+s73464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000526E86930000000000059898
+t1382975123
+s366744
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000526E8693000000000000253C
+t1382975123
+s9532
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c00000000526E8693000000000004C7C4
+t1382975123
+s313284
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000526E86930000000000085C78
+t1382975123
+s547960
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000526E8693000000000008B2C4
+t1382975123
+s570052
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+c00000000526E8693000000000000979C
+t1382975123
+s38812
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+c00000000526E869300000000000223B4
+t1382975123
+s140212
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+c00000000526E86930000000000071A98
+t1382975123
+s465560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+c00000000526E86930000000000017E1C
+t1382975123
+s97820
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+c00000000526E8693000000000004F094
+t1382975123
+s323732
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+c00000000526E8693000000000003AA44
+t1382975123
+s240196
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+c00000000526E869300000000000383CC
+t1382975123
+s230348
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+c00000000526E8693000000000001B66C
+t1382975123
+s112236
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000526E86930000000000030444
+t1382975123
+s197700
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000526E869300000000000C9E68
+t1382975123
+s826984
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+c00000000526E869300000000000394F8
+t1382975123
+s234744
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+c00000000526E8696000000000000BB7C
+t1382975126
+s47996
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+c00000000526E869600000000000211A0
+t1382975126
+s135584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+c00000000526E86960000000000005F00
+t1382975126
+s24320
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+c00000000526E86A4000000000000681C
+t1382975140
+s26652
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+c00000000526E86A3000000000006E8B0
+t1382975139
+s452784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+c00000000526E86A30000000000014EF8
+t1382975139
+s85752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+c00000000526E86A40000000000004734
+t1382975140
+s18228
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+c00000000526E86A4000000000000FC6C
+t1382975140
+s64620
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+c00000000526E86A4000000000000F6A0
+t1382975140
+s63136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+c00000000526E86A40000000000006254
+t1382975140
+s25172
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+c00000000526E86A4000000000000E0F8
+t1382975140
+s57592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+c00000000526E86A4000000000000D6DC
+t1382975140
+s55004
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+c00000000526E86A40000000000006308
+t1382975140
+s25352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+c00000000526E86A40000000000004050
+t1382975140
+s16464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+c00000000526E86A40000000000008570
+t1382975140
+s34160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+c00000000526E86A40000000000005EA0
+t1382975140
+s24224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+c00000000526E86A40000000000005FAC
+t1382975140
+s24492
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+c00000000526E86A40000000000004440
+t1382975140
+s17472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+c00000000526E86A4000000000000AA28
+t1382975140
+s43560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+c00000000526E86A40000000000003E2C
+t1382975140
+s15916
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+c00000000526E86A40000000000030A24
+t1382975140
+s199204
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+c00000000526E86A40000000000005E54
+t1382975140
+s24148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+c00000000526E86A40000000000006A90
+t1382975140
+s27280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+c00000000526E86A400000000000178AC
+t1382975140
+s96428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+c00000000526E86A4000000000001ADC8
+t1382975140
+s110024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+c00000000526E86A4000000000001028C
+t1382975140
+s66188
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+c00000000526E86A40000000000008800
+t1382975140
+s34816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+c00000000526E86A40000000000011090
+t1382975140
+s69776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+c00000000526E86A4000000000000882C
+t1382975140
+s34860
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+c00000000526E86A400000000000067AC
+t1382975140
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+c00000000526E86A40000000000008DEC
+t1382975140
+s36332
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+c00000000526E86A40000000000004C08
+t1382975140
+s19464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+c00000000526E86A400000000000023C0
+t1382975140
+s9152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+c00000000526E86A4000000000000439C
+t1382975140
+s17308
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+c00000000526E86A40000000000006768
+t1382975140
+s26472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+c00000000526E86A400000000000172F4
+t1382975140
+s94964
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+c00000000526E87080000000000001750
+t1382975240
+s5968
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/AppDelegate.o
+t1393381567
+s141420
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/KinectDisplay.o
+t1393280281
+s13228
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/KinectGLView.o
+t1393280281
+s25544
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/KinectOSC.LinkFileList
+c00000000530BC517000000000000047D
+t1393280279
+s1149
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/OscController.o
+t1393381565
+s7688
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/SkeletonController.o
+t1393381565
+s180476
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/Utility.o
+t1393280281
+s70084
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/main.o
+t1393280280
+s2936
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/assetcatalog_dependencies.txt
+t1393280284
+s312
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/assetcatalog_generated_info.plist
+t1393280284
+s181
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-aiixflanubliimcknefbqkfsylfj/KinectOSC-Prefix.pch.pch
+t1393280280
+s13698996
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-gblyxrvfssiokxgrglllcmigzpeb/KinectOSC-Prefix.pch.pch
+t1393280279
+s115940
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-guuewrroyqsqkderhbxzjkzxhyry/KinectOSC-Prefix.pch.pch
+t1393280280
+s16753596
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app
+t1393280284
+s102
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app.dSYM
+t1393280284
+s102
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Info.plist
+t1393280284
+s1422
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/MacOS/KinectOSC
+t1393381567
+s63252
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/PkgInfo
+t1393280284
+s8
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Resources/Base.lproj/MainMenu.nib
+t1393381573
+s50294
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Resources/en.lproj/Credits.rtf
+t1393280281
+s436
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1393280281
+s92
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/AppDelegate.h
+c00000000530BDD0600000000000005CD
+t1393286406
+s1485
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/AppDelegate.mm
+c00000000530BE3FF000000000000115E
+t1393288191
+s4446
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/Base.lproj/MainMenu.xib
+c00000000530BDD4900000000000127F7
+t1393286473
+s75767
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/Images.xcassets
+c000000005303F8730000000000000066
+t1392769139
+s102
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/KinectDisplay.cpp
+c00000000530ADD9B00000000000015F3
+t1393221019
+s5619
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/KinectDisplay.h
+c00000000530B8D9700000000000008BE
+t1393266071
+s2238
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/KinectGLView.h
+c00000000530BC45700000000000001DD
+t1393280087
+s477
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/KinectGLView.mm
+c00000000530BC4630000000000000379
+t1393280099
+s889
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/KinectOSC-Info.plist
+c000000005303F8730000000000000450
+t1392769139
+s1104
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/KinectOSC-Prefix.pch
+c000000005303F87300000000000000AC
+t1392769139
+s172
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/OscController.cpp
+c00000000530D505E00000000000003A2
+t1393381470
+s930
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/OscController.h
+c00000000530D506E0000000000000305
+t1393381486
+s773
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/SkeletonController.cpp
+c00000000530D4E590000000000004D9A
+t1393380953
+s19866
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/SkeletonController.h
+c00000000530BE3380000000000000A75
+t1393287992
+s2677
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/en.lproj/Credits.rtf
+c000000005303F87300000000000001B4
+t1392769139
+s436
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/en.lproj/InfoPlist.strings
+c000000005303F873000000000000002D
+t1392769139
+s45
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/main.m
+c0000000053040B4900000000000000F7
+t1392773961
+s247
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/Utility/Utility.cpp
+c00000000530ADE6A00000000000002EE
+t1393221226
+s750
+
+N/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/Utility/Utility.h
+c00000000530AE2480000000000000237
+t1393222216
+s567
+
+N/usr/local/include/NiTE/NiTE.h
+c000000005303E36C000000000000FFE6
+t1392763756
+s65510
+
+N/usr/local/include/NiTE/NiteCAPI.h
+c000000005303E36C0000000000001006
+t1392763756
+s4102
+
+N/usr/local/include/NiTE/NiteCEnums.h
+c000000005303E36C0000000000000BE1
+t1392763756
+s3041
+
+N/usr/local/include/NiTE/NiteCTypes.h
+c000000005303E36C00000000000010A1
+t1392763756
+s4257
+
+N/usr/local/include/NiTE/NiteEnums.h
+c000000005303E36C0000000000000695
+t1392763756
+s1685
+
+N/usr/local/include/NiTE/NiteVersion.h
+c000000005303E36C00000000000004F4
+t1392763756
+s1268
+
+N/usr/local/include/OpenNI/Linux-x86/OniPlatformLinux-x86.h
+c000000005303CF2600000000000011E0
+t1392758566
+s4576
+
+N/usr/local/include/OpenNI/MacOSX/OniPlatformMacOSX.h
+c000000005303CF260000000000000860
+t1392758566
+s2144
+
+N/usr/local/include/OpenNI/OniCAPI.h
+c000000005303CF260000000000003367
+t1392758566
+s13159
+
+N/usr/local/include/OpenNI/OniCEnums.h
+c000000005303CF260000000000000B21
+t1392758566
+s2849
+
+N/usr/local/include/OpenNI/OniCProperties.h
+c000000005303CF260000000000000B9C
+t1392758566
+s2972
+
+N/usr/local/include/OpenNI/OniCTypes.h
+c000000005303CF260000000000001622
+t1392758566
+s5666
+
+N/usr/local/include/OpenNI/OniEnums.h
+c000000005303CF260000000000000AD7
+t1392758566
+s2775
+
+N/usr/local/include/OpenNI/OniPlatform.h
+c000000005303CF260000000000000C14
+t1392758566
+s3092
+
+N/usr/local/include/OpenNI/OniProperties.h
+c000000005303CF260000000000000B63
+t1392758566
+s2915
+
+N/usr/local/include/OpenNI/OniVersion.h
+c000000005303CF260000000000000A80
+t1392758566
+s2688
+
+N/usr/local/include/OpenNI/OpenNI.h
+c000000005303CF260000000000016F96
+t1392758566
+s94102
+
+N/usr/local/include/lo/lo.h
+c0000000052A0F9310000000000002FF9
+t1386281265
+s12281
+
+N/usr/local/include/lo/lo_endian.h
+c0000000052A0F9310000000000000B8C
+t1386281265
+s2956
+
+N/usr/local/include/lo/lo_errors.h
+c0000000052A0F931000000000000048E
+t1386281265
+s1166
+
+N/usr/local/include/lo/lo_lowlevel.h
+c0000000052A0F9310000000000006B59
+t1386281265
+s27481
+
+N/usr/local/include/lo/lo_macros.h
+c0000000052A0F9310000000000000A28
+t1386281265
+s2600
+
+N/usr/local/include/lo/lo_osc_types.h
+c0000000052A0F9310000000000000EB8
+t1386281265
+s3768
+
+N/usr/local/include/lo/lo_types.h
+c0000000052A0F93100000000000010CF
+t1386281265
+s4303
+
+N/usr/local/lib/libFreenectDriver.dylib
+c000000005303D359000000000001AE14
+t1392759641
+s110100
+
+N/usr/local/lib/libNiTE2.dylib
+c000000005303E1B500000000009D1E58
+t1392763317
+s10296920
+
+N/usr/local/lib/libOpenNI2.dylib
+c000000005303CF5400000000000C8D68
+t1392758612
+s822632
+
+N/usr/local/lib/liblo.7.dylib
+c0000000052A106AC00000000000110D4
+t1386284716
+s69844
+
+CBuild AST from /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/AppDelegate.mm
+r0
+
+CBuild AST from /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/KinectDisplay.cpp
+r0
+
+CBuild AST from /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/KinectGLView.mm
+r0
+
+CBuild AST from /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/OscController.cpp
+r0
+
+CBuild AST from /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/SkeletonController.cpp
+r0
+
+CBuild AST from /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/main.m
+r0
+
+CBuild AST from /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/Utility/Utility.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb1bfd83c88bdb841^8cbf053d88bdb841^---0#1#1#--18"Check dependencies36"FB7B83F2-FCB9-4E15-8205-76EB24D3D8DE-
+
+CCompileAssetCatalog /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Resources /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/Images.xcassets
+s414973081.539798
+e414973084.122622
+r1
+xCompileAssetCatalog
+x/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Resources
+x/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Resources/Assets.car
+o/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"CompileAssetCatalog DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Resources KinectOSC/Images.xcassets123"CompileAssetCatalog DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Resources KinectOSC/Images.xcassetse23e8a99fcbbb841^bf641f9cfcbbb841^-341"/* com.apple.actool.compilation-results *//Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Resources/Assets.car/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@83"file:///Users/Jeff/Drexel/MET%20Lab/MRP%202014/KinectOSC/KinectOSC/Images.xcassets/0000000000000000^975"CompileAssetCatalog DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Resources KinectOSC/Images.xcassets    cd "/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC"    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/assetcatalog_generated_info.plist --app-icon AppIcon --platform macosx --minimum-deployment-target 10.9 --target-device mac --compile /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Resources /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/Images.xcassets36"8142FBFE-2503-4885-982E-E05D9F24F5BF-
+b5B26E133-888B-401A-9CE5-39D38EF2F4C7
+
+CCompileC DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/AppDelegate.o /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/AppDelegate.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s415074365.025833
+e415074367.114930
+r1
+xCompileC
+xDerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/AppDelegate.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/AppDelegate.mm
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/AppDelegate.h
+d/usr/local/include/OpenNI/OpenNI.h
+d/usr/local/include/OpenNI/OniPlatform.h
+d/usr/local/include/OpenNI/MacOSX/OniPlatformMacOSX.h
+d/usr/local/include/OpenNI/Linux-x86/OniPlatformLinux-x86.h
+d/usr/local/include/OpenNI/OniProperties.h
+d/usr/local/include/OpenNI/OniEnums.h
+d/usr/local/include/OpenNI/OniCAPI.h
+d/usr/local/include/OpenNI/OniCTypes.h
+d/usr/local/include/OpenNI/OniCEnums.h
+d/usr/local/include/OpenNI/OniCProperties.h
+d/usr/local/include/OpenNI/OniVersion.h
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/SkeletonController.h
+d/usr/local/include/NiTE/NiTE.h
+d/usr/local/include/NiTE/NiteCAPI.h
+d/usr/local/include/NiTE/NiteCTypes.h
+d/usr/local/include/NiTE/NiteCEnums.h
+d/usr/local/include/NiTE/NiteVersion.h
+d/usr/local/include/NiTE/NiteEnums.h
+d/usr/local/include/lo/lo.h
+d/usr/local/include/lo/lo_endian.h
+d/usr/local/include/lo/lo_types.h
+d/usr/local/include/lo/lo_osc_types.h
+d/usr/local/include/lo/lo_errors.h
+d/usr/local/include/lo/lo_lowlevel.h
+d/usr/local/include/lo/lo_macros.h
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/KinectDisplay.h
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/Utility/Utility.h
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/OscController.h
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/KinectGLView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/AppDelegate.mm223"CompileC DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/AppDelegate.o KinectOSC/AppDelegate.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler18b2063d88bdb841^226f1d3f88bdb841^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/Jeff/Drexel/MET%20Lab/MRP%202014/KinectOSC/KinectOSC/AppDelegate.mm0000000000000000^3923"CompileC DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/AppDelegate.o KinectOSC/AppDelegate.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-generated-files.hmap -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-own-target-headers.hmap -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-all-target-headers.hmap -iquote /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-project-headers.hmap -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/usr/local/include/OpenNI -I/usr/local/include/NiTE -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/DerivedSources/x86_64 -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/DerivedSources -F/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release -include /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-guuewrroyqsqkderhbxzjkzxhyry/KinectOSC-Prefix.pch -MMD -MT dependencies -MF /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/AppDelegate.d --serialize-diagnostics /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/AppDelegate.dia -c /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/AppDelegate.mm -o /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/AppDelegate.o36"AEB2DF15-BD27-4BED-A77D-98D023AD65B2-
+bDF90B460-2397-407B-9851-AB356BD7D05B
+
+CCompileC DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/KinectDisplay.o /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/KinectDisplay.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s414973080.661600
+e414973081.310892
+r1
+xCompileC
+xDerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/KinectDisplay.o
+x/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/KinectDisplay.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/KinectDisplay.cpp
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/KinectDisplay.h
+d/usr/local/include/NiTE/NiTE.h
+d/usr/local/include/NiTE/NiteCAPI.h
+d/usr/local/include/OpenNI/OniPlatform.h
+d/usr/local/include/OpenNI/MacOSX/OniPlatformMacOSX.h
+d/usr/local/include/OpenNI/Linux-x86/OniPlatformLinux-x86.h
+d/usr/local/include/OpenNI/OniCAPI.h
+d/usr/local/include/OpenNI/OniCTypes.h
+d/usr/local/include/OpenNI/OniCEnums.h
+d/usr/local/include/OpenNI/OniCProperties.h
+d/usr/local/include/OpenNI/OniVersion.h
+d/usr/local/include/NiTE/NiteCTypes.h
+d/usr/local/include/NiTE/NiteCEnums.h
+d/usr/local/include/NiTE/NiteVersion.h
+d/usr/local/include/OpenNI/OpenNI.h
+d/usr/local/include/OpenNI/OniProperties.h
+d/usr/local/include/OpenNI/OniEnums.h
+d/usr/local/include/NiTE/NiteEnums.h
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/Utility/Utility.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/KinectDisplay.cpp218"CompileC DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/KinectDisplay.o KinectOSC/KinectDisplay.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerfb73a998fcbbb841^78974f99fcbbb841^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/Jeff/Drexel/MET%20Lab/MRP%202014/KinectOSC/KinectOSC/KinectDisplay.cpp0000000000000000^3667"CompileC DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/KinectDisplay.o KinectOSC/KinectDisplay.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-generated-files.hmap -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-own-target-headers.hmap -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-all-target-headers.hmap -iquote /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-project-headers.hmap -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/usr/local/include/OpenNI -I/usr/local/include/NiTE -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/DerivedSources/x86_64 -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/DerivedSources -F/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release -include /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-gblyxrvfssiokxgrglllcmigzpeb/KinectOSC-Prefix.pch -MMD -MT dependencies -MF /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/KinectDisplay.d --serialize-diagnostics /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/KinectDisplay.dia -c /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/KinectDisplay.cpp -o /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/KinectDisplay.o36"9454B840-D2D6-4A4F-8AFE-D29F48D9A23B-
+b5B26E133-888B-401A-9CE5-39D38EF2F4C7
+
+CCompileC DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/KinectGLView.o /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/KinectGLView.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s414973080.662399
+e414973081.343184
+r1
+xCompileC
+xDerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/KinectGLView.o
+x/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/KinectGLView.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/KinectGLView.mm
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/KinectGLView.h
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/KinectDisplay.h
+d/usr/local/include/NiTE/NiTE.h
+d/usr/local/include/NiTE/NiteCAPI.h
+d/usr/local/include/OpenNI/OniPlatform.h
+d/usr/local/include/OpenNI/MacOSX/OniPlatformMacOSX.h
+d/usr/local/include/OpenNI/Linux-x86/OniPlatformLinux-x86.h
+d/usr/local/include/OpenNI/OniCAPI.h
+d/usr/local/include/OpenNI/OniCTypes.h
+d/usr/local/include/OpenNI/OniCEnums.h
+d/usr/local/include/OpenNI/OniCProperties.h
+d/usr/local/include/OpenNI/OniVersion.h
+d/usr/local/include/NiTE/NiteCTypes.h
+d/usr/local/include/NiTE/NiteCEnums.h
+d/usr/local/include/NiTE/NiteVersion.h
+d/usr/local/include/OpenNI/OpenNI.h
+d/usr/local/include/OpenNI/OniProperties.h
+d/usr/local/include/OpenNI/OniEnums.h
+d/usr/local/include/NiTE/NiteEnums.h
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/Utility/Utility.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/KinectGLView.mm225"CompileC DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/KinectGLView.o KinectOSC/KinectGLView.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compilere9b9a998fcbbb841^44dd5799fcbbb841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/Jeff/Drexel/MET%20Lab/MRP%202014/KinectOSC/KinectOSC/KinectGLView.mm0000000000000000^3929"CompileC DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/KinectGLView.o KinectOSC/KinectGLView.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-generated-files.hmap -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-own-target-headers.hmap -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-all-target-headers.hmap -iquote /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-project-headers.hmap -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/usr/local/include/OpenNI -I/usr/local/include/NiTE -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/DerivedSources/x86_64 -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/DerivedSources -F/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release -include /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-guuewrroyqsqkderhbxzjkzxhyry/KinectOSC-Prefix.pch -MMD -MT dependencies -MF /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/KinectGLView.d --serialize-diagnostics /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/KinectGLView.dia -c /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/KinectGLView.mm -o /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/KinectGLView.o36"659CBCE5-0158-4F57-B106-20F2AC300A32-
+b5B26E133-888B-401A-9CE5-39D38EF2F4C7
+
+CCompileC DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/OscController.o /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/OscController.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s415074365.026557
+e415074365.626020
+r1
+xCompileC
+xDerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/OscController.o
+x/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/OscController.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/OscController.cpp
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/OscController.h
+d/usr/local/include/lo/lo.h
+d/usr/local/include/lo/lo_endian.h
+d/usr/local/include/lo/lo_types.h
+d/usr/local/include/lo/lo_osc_types.h
+d/usr/local/include/lo/lo_errors.h
+d/usr/local/include/lo/lo_lowlevel.h
+d/usr/local/include/lo/lo_macros.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/OscController.cpp218"CompileC DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/OscController.o KinectOSC/OscController.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler10e6063d88bdb841^1345a03d88bdb841^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/Jeff/Drexel/MET%20Lab/MRP%202014/KinectOSC/KinectOSC/OscController.cpp0000000000000000^3667"CompileC DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/OscController.o KinectOSC/OscController.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-generated-files.hmap -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-own-target-headers.hmap -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-all-target-headers.hmap -iquote /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-project-headers.hmap -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/usr/local/include/OpenNI -I/usr/local/include/NiTE -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/DerivedSources/x86_64 -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/DerivedSources -F/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release -include /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-gblyxrvfssiokxgrglllcmigzpeb/KinectOSC-Prefix.pch -MMD -MT dependencies -MF /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/OscController.d --serialize-diagnostics /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/OscController.dia -c /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/OscController.cpp -o /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/OscController.o36"4D5F955C-C8DC-46BD-975E-3D0EA453E501-
+bDF90B460-2397-407B-9851-AB356BD7D05B
+
+CCompileC DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/SkeletonController.o /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/SkeletonController.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s415074365.025087
+e415074365.736322
+r1
+xCompileC
+xDerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/SkeletonController.o
+x/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/SkeletonController.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/SkeletonController.cpp
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/SkeletonController.h
+d/usr/local/include/NiTE/NiTE.h
+d/usr/local/include/NiTE/NiteCAPI.h
+d/usr/local/include/OpenNI/OniPlatform.h
+d/usr/local/include/OpenNI/MacOSX/OniPlatformMacOSX.h
+d/usr/local/include/OpenNI/Linux-x86/OniPlatformLinux-x86.h
+d/usr/local/include/OpenNI/OniCAPI.h
+d/usr/local/include/OpenNI/OniCTypes.h
+d/usr/local/include/OpenNI/OniCEnums.h
+d/usr/local/include/OpenNI/OniCProperties.h
+d/usr/local/include/OpenNI/OniVersion.h
+d/usr/local/include/NiTE/NiteCTypes.h
+d/usr/local/include/NiTE/NiteCEnums.h
+d/usr/local/include/NiTE/NiteVersion.h
+d/usr/local/include/OpenNI/OpenNI.h
+d/usr/local/include/OpenNI/OniProperties.h
+d/usr/local/include/OpenNI/OniEnums.h
+d/usr/local/include/NiTE/NiteEnums.h
+d/usr/local/include/lo/lo.h
+d/usr/local/include/lo/lo_endian.h
+d/usr/local/include/lo/lo_types.h
+d/usr/local/include/lo/lo_osc_types.h
+d/usr/local/include/lo/lo_errors.h
+d/usr/local/include/lo/lo_lowlevel.h
+d/usr/local/include/lo/lo_macros.h
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/KinectDisplay.h
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/Utility/Utility.h
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/OscController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/SkeletonController.cpp228"CompileC DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/SkeletonController.o KinectOSC/SkeletonController.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerd47f063d88bdb841^1b81bc3d88bdb841^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/Jeff/Drexel/MET%20Lab/MRP%202014/KinectOSC/KinectOSC/SkeletonController.cpp0000000000000000^3697"CompileC DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/SkeletonController.o KinectOSC/SkeletonController.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-generated-files.hmap -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-own-target-headers.hmap -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-all-target-headers.hmap -iquote /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-project-headers.hmap -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/usr/local/include/OpenNI -I/usr/local/include/NiTE -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/DerivedSources/x86_64 -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/DerivedSources -F/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release -include /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-gblyxrvfssiokxgrglllcmigzpeb/KinectOSC-Prefix.pch -MMD -MT dependencies -MF /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/SkeletonController.d --serialize-diagnostics /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/SkeletonController.dia -c /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/SkeletonController.cpp -o /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/SkeletonController.o36"A718CF71-134B-46AA-BDE3-D9BAB42FF9B7-
+bDF90B460-2397-407B-9851-AB356BD7D05B
+
+CCompileC DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/Utility.o /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/Utility/Utility.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s414973080.661339
+e414973081.356445
+r1
+xCompileC
+xDerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/Utility.o
+x/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/Utility/Utility.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/Utility/Utility.cpp
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/Utility/Utility.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/Utility/Utility.cpp204"CompileC DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/Utility.o Utility/Utility.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler556ba998fcbbb841^d5405b99fcbbb841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/Jeff/Drexel/MET%20Lab/MRP%202014/KinectOSC/Utility/Utility.cpp0000000000000000^3627"CompileC DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/Utility.o Utility/Utility.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-generated-files.hmap -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-own-target-headers.hmap -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-all-target-headers.hmap -iquote /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-project-headers.hmap -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/usr/local/include/OpenNI -I/usr/local/include/NiTE -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/DerivedSources/x86_64 -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/DerivedSources -F/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release -include /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-gblyxrvfssiokxgrglllcmigzpeb/KinectOSC-Prefix.pch -MMD -MT dependencies -MF /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/Utility.d --serialize-diagnostics /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/Utility.dia -c /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/Utility/Utility.cpp -o /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/Utility.o36"0080755A-9963-40AB-B890-93F2A22457CA-
+b5B26E133-888B-401A-9CE5-39D38EF2F4C7
+
+CCompileC DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/main.o /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414973080.663713
+e414973080.709732
+r1
+xCompileC
+xDerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/main.o
+x/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/main.m206"CompileC DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/main.o KinectOSC/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler2b13aa98fcbbb841^25b0b598fcbbb841^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/Jeff/Drexel/MET%20Lab/MRP%202014/KinectOSC/KinectOSC/main.m0000000000000000^3746"CompileC DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/main.o KinectOSC/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-generated-files.hmap -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-own-target-headers.hmap -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-all-target-headers.hmap -iquote /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-project-headers.hmap -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/usr/local/include/OpenNI -I/usr/local/include/NiTE -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/DerivedSources/x86_64 -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/DerivedSources -F/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release -include /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-aiixflanubliimcknefbqkfsylfj/KinectOSC-Prefix.pch -MMD -MT dependencies -MF /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/main.dia -c /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/main.m -o /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/main.o36"C765C7C7-6A9C-4C82-BB71-26A19768B513-
+b5B26E133-888B-401A-9CE5-39D38EF2F4C7
+
+CCompileXIB /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/Base.lproj/MainMenu.xib
+s415074367.190808
+e415074373.799450
+r1
+xCompileXIB
+x/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/Base.lproj/MainMenu.xib
+o2014-02-25 21:26:13.678 ibtoold[5297:507] *** WARNING: Method setAttributes: in class NSOpenGLPixelFormat is obsolete and will be removed in a future release. ***
+o2014-02-25 21:26:13.678 ibtoold[5297:507] *** WARNING: Method attributes in class NSOpenGLPixelFormat is obsolete and will be removed in a future release. ***
+o/* com.apple.ibtool.document.warnings */
+o/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/Base.lproj/MainMenu.xib:371: warning: Content rectangle not entirely on screen with the menu bar (May not be completely visible for all screen resolutions and configurations) [9]
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compiling /Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/Base.lproj/MainMenu.xib44"CompileXIB KinectOSC/Base.lproj/MainMenu.xibc9e4303f88bdb841^48a9cc4588bdb841^-594"2014-02-25 21:26:13.678 ibtoold[5297:507] *** WARNING: Method setAttributes: in class NSOpenGLPixelFormat is obsolete and will be removed in a future release. ***2014-02-25 21:26:13.678 ibtoold[5297:507] *** WARNING: Method attributes in class NSOpenGLPixelFormat is obsolete and will be removed in a future release. ***/* com.apple.ibtool.document.warnings *//Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/Base.lproj/MainMenu.xib:371: warning: Content rectangle not entirely on screen with the menu bar (May not be completely visible for all screen resolutions and configurations)1(21%IDEActivityLogMessage2@136"Content rectangle not entirely on screen with the menu bar (May not be completely visible for all screen resolutions and configurations)58"Content rectangle not entirely on screen with the menu bar415074373#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@90"file:///Users/Jeff/Drexel/MET%20Lab/MRP%202014/KinectOSC/KinectOSC/Base.lproj/MainMenu.xib0000000000000000^370#18446744073709551615#370#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--0#0#1#-19%DVTDocumentLocation4@90"file:///Users/Jeff/Drexel/MET%20Lab/MRP%202014/KinectOSC/KinectOSC/Base.lproj/MainMenu.xib0000000000000000^593"CompileXIB KinectOSC/Base.lproj/MainMenu.xib    cd "/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 10.9 --output-format human-readable-text --compile /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Resources/Base.lproj/MainMenu.nib /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/Base.lproj/MainMenu.xib36"0532C6C1-D9EB-47EE-84FF-EFDA04A31CD3-
+bDF90B460-2397-407B-9851-AB356BD7D05B
+
+CCopyStringsFile /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Resources/en.lproj/InfoPlist.strings KinectOSC/en.lproj/InfoPlist.strings
+s414973081.539248
+e414973081.573801
+r1
+xCopyStringsFile
+x/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Resources/en.lproj/InfoPlist.strings
+xKinectOSC/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy KinectOSC/en.lproj/InfoPlist.strings157"CopyStringsFile DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Resources/en.lproj/InfoPlist.strings KinectOSC/en.lproj/InfoPlist.stringsd21b8a99fcbbb841^36e59299fcbbb841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/Jeff/Drexel/MET%20Lab/MRP%202014/KinectOSC/KinectOSC/en.lproj/InfoPlist.strings0000000000000000^478"CopyStringsFile DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Resources/en.lproj/InfoPlist.strings KinectOSC/en.lproj/InfoPlist.strings    cd "/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Resources/en.lproj -- KinectOSC/en.lproj/InfoPlist.strings36"19358B4E-FE01-49DF-B3D2-A0E9C7448BDC-
+b5B26E133-888B-401A-9CE5-39D38EF2F4C7
+
+CCpResource KinectOSC/en.lproj/Credits.rtf DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Resources/en.lproj/Credits.rtf
+s414973081.539422
+e414973081.555069
+r1
+xCpResource
+xKinectOSC/en.lproj/Credits.rtf
+xDerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Resources/en.lproj/Credits.rtf140"CpResource KinectOSC/en.lproj/Credits.rtf DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Resources/en.lproj/Credits.rtf5b238a99fcbbb841^eb198e99fcbbb841^---0#0#1#-19%DVTDocumentLocation2@155"file:///Users/Jeff/Drexel/MET%20Lab/MRP%202014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Resources/en.lproj/Credits.rtf0034547edeffdf42^648"CpResource KinectOSC/en.lproj/Credits.rtf DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Resources/en.lproj/Credits.rtf    cd "/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/en.lproj/Credits.rtf /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Resources/en.lproj36"F46FA9A7-3B16-4EBB-BED7-3670415F6711-
+b5B26E133-888B-401A-9CE5-39D38EF2F4C7
+
+CGenerateDSYMFile /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app.dSYM /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/MacOS/KinectOSC
+s415074373.800362
+e415074373.928523
+r1
+xGenerateDSYMFile
+x/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app.dSYM
+x/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/MacOS/KinectOSC
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Generate /Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app.dSYM164"GenerateDSYMFile DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app.dSYM DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/MacOS/KinectOSC13f3cc4588bdb841^9ab4ed4588bdb841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/Jeff/Drexel/MET%20Lab/MRP%202014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app.dSYM/0000000000000000^567"GenerateDSYMFile DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app.dSYM DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/MacOS/KinectOSC    cd "/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/MacOS/KinectOSC -o /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app.dSYM36"95688907-FC70-48AB-90C7-7B20B38DC1B4-
+bDF90B460-2397-407B-9851-AB356BD7D05B
+
+CLd /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/MacOS/KinectOSC normal x86_64
+s415074367.117511
+e415074367.189498
+r1
+xLd
+x/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/MacOS/KinectOSC
+xnormal
+xx86_64
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/KinectOSC.LinkFileList
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/Utility.o
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/KinectDisplay.o
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/SkeletonController.o
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/KinectGLView.o
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/AppDelegate.o
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/main.o
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/OscController.o
+d/usr/local/lib/libFreenectDriver.dylib
+d/usr/local/lib/liblo.7.dylib
+d/usr/local/lib/libNiTE2.dylib
+d/usr/local/lib/libOpenNI2.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Link /Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/MacOS/KinectOSC100"Ld DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/MacOS/KinectOSC normal x86_645f261e3f88bdb841^fd83303f88bdb841^---0#0#1#--1296"Ld DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/MacOS/KinectOSC normal x86_64    cd "/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC"    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release -L/usr/local/lib -F/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release -filelist /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/KinectOSC.LinkFileList -mmacosx-version-min=10.9 -fobjc-arc -fobjc-link-runtime -lFreenectDriver -llo.7 -lNiTE2 -lOpenNI2 -framework OpenGL -framework Cocoa -Xlinker -dependency_info -Xlinker /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/Objects-normal/x86_64/KinectOSC_dependency_info.dat -o /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/MacOS/KinectOSC36"1C2AA4DE-5020-4306-8BCD-1DB7D558AF0E-
+bDF90B460-2397-407B-9851-AB356BD7D05B
+
+CProcessInfoPlistFile /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Info.plist /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/KinectOSC-Info.plist
+s414973084.123184
+e414973084.124902
+r1
+xProcessInfoPlistFile
+x/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Info.plist
+x/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/KinectOSC-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Process /Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/KinectOSC-Info.plist130"ProcessInfoPlistFile DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Info.plist KinectOSC/KinectOSC-Info.plist359b1f9cfcbbb841^5dfa1f9cfcbbb841^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/Jeff/Drexel/MET%20Lab/MRP%202014/KinectOSC/KinectOSC/KinectOSC-Info.plist0000000000000000^785"ProcessInfoPlistFile DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Info.plist KinectOSC/KinectOSC-Info.plist    cd "/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC"    builtin-infoPlistUtility /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/KinectOSC-Info.plist -genpkginfo /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/PkgInfo -expandbuildsettings -platform macosx -additionalcontentfile /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/assetcatalog_generated_info.plist -o /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app/Contents/Info.plist36"910B1B21-E6C2-4E99-9FD4-DBAB9F95CD68-
+b5B26E133-888B-401A-9CE5-39D38EF2F4C7
+
+CProcessPCH /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-aiixflanubliimcknefbqkfsylfj/KinectOSC-Prefix.pch.pch KinectOSC/KinectOSC-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414973079.376919
+e414973080.300484
+r1
+xProcessPCH
+x/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-aiixflanubliimcknefbqkfsylfj/KinectOSC-Prefix.pch.pch
+xKinectOSC/KinectOSC-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/KinectOSC-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile KinectOSC/KinectOSC-Prefix.pch243"ProcessPCH DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-aiixflanubliimcknefbqkfsylfj/KinectOSC-Prefix.pch.pch KinectOSC/KinectOSC-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler5f986097fcbbb841^d9ec4c98fcbbb841^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/Jeff/Drexel/MET%20Lab/MRP%202014/KinectOSC/KinectOSC/KinectOSC-Prefix.pch0000000000000000^3678"ProcessPCH DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-aiixflanubliimcknefbqkfsylfj/KinectOSC-Prefix.pch.pch KinectOSC/KinectOSC-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-generated-files.hmap -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-own-target-headers.hmap -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-all-target-headers.hmap -iquote /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-project-headers.hmap -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/usr/local/include/OpenNI -I/usr/local/include/NiTE -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/DerivedSources/x86_64 -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/DerivedSources -F/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release --serialize-diagnostics /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-aiixflanubliimcknefbqkfsylfj/KinectOSC-Prefix.pch.dia -MMD -MT dependencies -MF /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-aiixflanubliimcknefbqkfsylfj/KinectOSC-Prefix.pch.d -c /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/KinectOSC-Prefix.pch -o /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-aiixflanubliimcknefbqkfsylfj/KinectOSC-Prefix.pch.pch36"602C3A85-2303-43C9-8896-C7A6A04F2810-
+b5B26E133-888B-401A-9CE5-39D38EF2F4C7
+
+CProcessPCH /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Index/PrecompiledHeaders/KinectOSC-Prefix-gxwxbhcydivxcydqfcyoydfdgzdg_ast/KinectOSC-Prefix.pch.pch KinectOSC/KinectOSC-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-gblyxrvfssiokxgrglllcmigzpeb/KinectOSC-Prefix.pch.pch KinectOSC/KinectOSC-Prefix.pch normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s414973079.376353
+e414973079.392441
+r1
+xProcessPCH++
+x/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-gblyxrvfssiokxgrglllcmigzpeb/KinectOSC-Prefix.pch.pch
+xKinectOSC/KinectOSC-Prefix.pch
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/KinectOSC-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile KinectOSC/KinectOSC-Prefix.pch237"ProcessPCH++ DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-gblyxrvfssiokxgrglllcmigzpeb/KinectOSC-Prefix.pch.pch KinectOSC/KinectOSC-Prefix.pch normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler166b6097fcbbb841^cd776497fcbbb841^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/Jeff/Drexel/MET%20Lab/MRP%202014/KinectOSC/KinectOSC/KinectOSC-Prefix.pch0000000000000000^3543"ProcessPCH++ DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-gblyxrvfssiokxgrglllcmigzpeb/KinectOSC-Prefix.pch.pch KinectOSC/KinectOSC-Prefix.pch normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-generated-files.hmap -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-own-target-headers.hmap -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-all-target-headers.hmap -iquote /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-project-headers.hmap -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/usr/local/include/OpenNI -I/usr/local/include/NiTE -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/DerivedSources/x86_64 -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/DerivedSources -F/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release --serialize-diagnostics /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-gblyxrvfssiokxgrglllcmigzpeb/KinectOSC-Prefix.pch.dia -MMD -MT dependencies -MF /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-gblyxrvfssiokxgrglllcmigzpeb/KinectOSC-Prefix.pch.d -c /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/KinectOSC-Prefix.pch -o /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-gblyxrvfssiokxgrglllcmigzpeb/KinectOSC-Prefix.pch.pch36"E8A1AA35-7578-483B-A410-86C75E01AD80-
+b5B26E133-888B-401A-9CE5-39D38EF2F4C7
+
+CProcessPCH++ /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-guuewrroyqsqkderhbxzjkzxhyry/KinectOSC-Prefix.pch.pch KinectOSC/KinectOSC-Prefix.pch normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s414973079.376606
+e414973080.660343
+r1
+xProcessPCH++
+x/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-guuewrroyqsqkderhbxzjkzxhyry/KinectOSC-Prefix.pch.pch
+xKinectOSC/KinectOSC-Prefix.pch
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/KinectOSC/KinectOSC-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile KinectOSC/KinectOSC-Prefix.pch247"ProcessPCH++ DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-guuewrroyqsqkderhbxzjkzxhyry/KinectOSC-Prefix.pch.pch KinectOSC/KinectOSC-Prefix.pch normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler8d7a6097fcbbb841^730fa998fcbbb841^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/Jeff/Drexel/MET%20Lab/MRP%202014/KinectOSC/KinectOSC/KinectOSC-Prefix.pch0000000000000000^3813"ProcessPCH++ DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-guuewrroyqsqkderhbxzjkzxhyry/KinectOSC-Prefix.pch.pch KinectOSC/KinectOSC-Prefix.pch normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-generated-files.hmap -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-own-target-headers.hmap -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-all-target-headers.hmap -iquote /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/KinectOSC-project-headers.hmap -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/usr/local/include/OpenNI -I/usr/local/include/NiTE -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/DerivedSources/x86_64 -I/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/KinectOSC.build/Release/KinectOSC.build/DerivedSources -F/Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release --serialize-diagnostics /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-guuewrroyqsqkderhbxzjkzxhyry/KinectOSC-Prefix.pch.dia -MMD -MT dependencies -MF /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-guuewrroyqsqkderhbxzjkzxhyry/KinectOSC-Prefix.pch.d -c /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/KinectOSC/KinectOSC-Prefix.pch -o /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Intermediates/PrecompiledHeaders/KinectOSC-Prefix-guuewrroyqsqkderhbxzjkzxhyry/KinectOSC-Prefix.pch.pch36"14129E65-62D5-43B5-AE35-62EC3DF3CE39-
+b5B26E133-888B-401A-9CE5-39D38EF2F4C7
+
+CProcessPCH++ /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Index/PrecompiledHeaders/KinectOSC-Prefix-dawqbohycdrhkkassepnezptvzea_ast/KinectOSC-Prefix.pch.pch KinectOSC/KinectOSC-Prefix.pch normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Index/PrecompiledHeaders/KinectOSC-Prefix-eyghmiqykfrbdfekviubsyloftjs_ast/KinectOSC-Prefix.pch.pch KinectOSC/KinectOSC-Prefix.pch normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app
+s415074373.929012
+e415074373.932702
+r1
+xTouch
+x/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Touch /Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app64"Touch DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app37deed4588bdb841^43c7ee4588bdb841^---0#0#1#--249"Touch DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app    cd "/Users/Jeff/Drexel/MET Lab/MRP 2014/KinectOSC"    /usr/bin/touch -c /Users/Jeff/Drexel/MET\ Lab/MRP\ 2014/KinectOSC/DerivedData/KinectOSC/Build/Products/Release/KinectOSC.app36"54C0FFFF-1C8C-4B19-95B1-FF5B59153FBF-
+bDF90B460-2397-407B-9851-AB356BD7D05B
+
